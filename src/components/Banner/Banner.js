@@ -6,7 +6,6 @@ export default function Banner() {
   return (
     <>
       <div className="banner" />
-      <a href="/">learn react</a>
     </>
   );
 }
